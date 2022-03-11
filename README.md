@@ -2,7 +2,7 @@ A simple react App displaying & filtering robots using [public API](https://robo
 
 [View live app on Fly.io](https://roborental-lukov.fly.dev/)
 
-/public/screenshot.jpg
+![App Image](/public/screenshot.jpg)
 
 # Custom Development:
 
