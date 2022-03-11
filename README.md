@@ -1,6 +1,6 @@
 A simple react App displaying & filtering robots using [public API](https://robohash.org/) and [mock user data](https://jsonplaceholder.typicode.com/). Built based on React section of [Udemy ZTM tutorial](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/).
 
-[View live app on Fly.io](https://roborental.fly.dev/)
+[View live app on Fly.io](https://robotrental.fly.dev/)
 
 ![App Image](/public/screenshot.jpg)
 
