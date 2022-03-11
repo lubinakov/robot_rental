@@ -1,4 +1,4 @@
-A simple react App displaying & filtering robots using public API (https://robohash.org/) and mock user data from (https://jsonplaceholder.typicode.com/). Built based on React section of Udemy ZTM tutorial (https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/).
+A simple react App displaying & filtering robots using [public API](https://robohash.org/) and [mock user data](https://jsonplaceholder.typicode.com/). Built based on React section of [Udemy ZTM tutorial](https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/).
 
 # Custom Development:
 
