@@ -1,12 +1,10 @@
-# fly.toml file generated for robotrental on 2022-03-10T18:33:46-04:00
+# fly.toml file generated for robotrental on 2022-03-11T15:00:56-04:00
 
 app = "robotrental"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
-
-[build]
 
 [env]
   PORT = "8080"
