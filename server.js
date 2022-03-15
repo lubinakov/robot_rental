@@ -6,5 +6,5 @@ const app = new express();
 app.use("/", express.static(path.join(__dirname, "build")));
 
 app.listen(PORT, () => {
-  console.log("listing on port %s", PORT);
+  console.log("Listening on port %s", PORT);
 });
