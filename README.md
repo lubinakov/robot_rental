@@ -17,7 +17,7 @@ A simple react App displaying & filtering robots using [public API](https://robo
 
 - `$ git clone git@github.com:lubinakov/robot_rental.git`
 - `$ npm install`
-- `$ npm build`
+- `$ npm run build`
 - `$ node server`
 
 ## Deploy to Fly
